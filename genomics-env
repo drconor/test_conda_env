@@ -1,0 +1,11 @@
+name: genomics-env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - fastqc
+  - samtools
+  - bedtools
+  - bcftools
+  - seqtk
+
