@@ -1,0 +1,12 @@
+name: genomics-env-kernal
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - fastqc
+  - samtools
+  - bedtools
+  - bcftools
+  - seqtk
+  - jupyterlab
+  - ipykernel
