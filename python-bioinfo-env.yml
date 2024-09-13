@@ -11,3 +11,4 @@ dependencies:
   - pandas             # Data manipulation and analysis
   - matplotlib         # Plotting and visualization
   - seaborn            # Statistical data visualization
+  - ipykernel          #to detect env in Jupyter
