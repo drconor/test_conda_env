@@ -1,0 +1,13 @@
+name: python-bioinfo-env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - biopython          # For biological sequences and structures
+  - pysam              # For working with SAM/BAM files
+  - pybedtools         # Python interface for BEDTools
+  - scikit-bio         # Biological analysis library (phylogenetics, sequence analysis)
+  - HTSeq              # For high-throughput sequencing data analysis
+  - pandas             # Data manipulation and analysis
+  - matplotlib         # Plotting and visualization
+  - seaborn            # Statistical data visualization
