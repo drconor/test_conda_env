@@ -8,4 +8,5 @@ dependencies:
   - bedtools
   - bcftools
   - seqtk
+  - jupyterlab
 
