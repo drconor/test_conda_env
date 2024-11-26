@@ -2,6 +2,7 @@ name: big_fish
 channels:
   - bioconda
   - conda-forge
+  - esri
 dependencies:
   - big-fish
   - ipykernel
