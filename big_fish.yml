@@ -4,6 +4,7 @@ channels:
   - conda-forge
   - esri
 dependencies:
+  - python=3.6
   - big-fish
   - ipykernel
   - tensorflow
