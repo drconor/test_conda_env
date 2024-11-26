@@ -1,0 +1,11 @@
+name: big_fish
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - big-fish
+  - ipykernel
+  - tensorflow
+  - tensorflow-addons
+  - jupyterlab
+  - ipykernel
