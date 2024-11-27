@@ -12,6 +12,8 @@ dependencies:
 - matplotlib >= 3.0.2
 - pandas >= 0.24.0
 - mrc >= 0.1.5
+- tensorflow
+- tensorflow-addons
 - ipykernel
 - jupyterlab
 - big-fish
